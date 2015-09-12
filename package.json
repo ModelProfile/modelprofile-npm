@@ -1,0 +1,24 @@
+{
+  "name": "modelprofile",
+  "version": "0.0.1",
+  "description": "ModelProfile.com - npm package for easy API access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ModelProfile/modelprofile-npm.git"
+  },
+  "keywords": [
+    "model",
+    "profile",
+    "agency"
+  ],
+  "author": "Smart Coordination GmbH <office@modelprofile.com> (https://modelprofile.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ModelProfile/modelprofile-npm/issues"
+  },
+  "homepage": "https://modelprofile.com"
+}
