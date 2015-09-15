@@ -1,0 +1,9 @@
+language: node_js
+deploy:
+  provider: npm
+  email: npm@smart-coordination.com
+  api_key:
+    secure: UcvDJw/ASPV2D7CUlZyvdE6NfcCF8F2nGhmdBfX7/kT8OAi0Eanh8kEz0aVm9EYUk5/b7DFZi73dahVu+LmG5CNcqIpRbQMFXyMPbBOTHPfnyDitEif42D8DwNo5YxIzvuMncS/NwNNS6JGjBftl+//plIU/S18OJNUt+ohhFB8kkY/mMlif24qwYy7WPs7uSPqQulX0WWzjAX6GWXZ9vY9Ms8P6sr9OZXaRzZfhZtjNggQOJJArAPJcT2fOWQQ/fhuWN0bDVyyUt8eC7f/DKdvIdDlnkvWQYvEIjzqXC6XAaH0XZxhh0I0JSMJhzsP+/JzRP7Gt1dPPijxy+xEq+97gGiqFK8fyHw+UL7TakAyXEUPdOc8IbMjeK+oDzum6Nqs+Ua0lT+LalLB56VYEooiTgmhyjem+/2kQOxo+A2creYwenZoCr0/FWsEB7Nqf2RGsuHfjmy+gHd8FpfVUTC7pnGUdMfOqEwssWoh8SBHGFQdz+KcYidye/JLEpugIcp53WG+Y8vNAJhjM+bvGoisWhni4ocwVlpn/fXTfAjqlW+IA4cZ9Ze0EDlCxdeUAH4uSzSO2kB9ueX85HKxvqV1F7PQyfNK7I9eFB2G+HeBjzX1WiN1rliRwGoi5DgoHGJwShdGpRUZwWrqnQcMK/vjcHRnZLrf9CLH8AxsL2+U=
+  on:
+    tags: true
+    repo: ModelProfile/modelprofile-npm
