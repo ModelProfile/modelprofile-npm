@@ -4,7 +4,7 @@
   "description": "ModelProfile.com - npm package for easy API access",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Works so far!\""
   },
   "repository": {
     "type": "git",
